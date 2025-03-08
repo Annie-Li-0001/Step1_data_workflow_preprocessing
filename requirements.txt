@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+loguru==0.6.0
+tqdm==4.65.0
+apache-airflow==2.7.3
+tqdm==4.65.0
+tushare==1.2.89
+SQLAlchemy==1.4.27
+numba
+empirical==0.2
+apache-airflow-providers-mysql==3.2.1
