@@ -7,7 +7,7 @@
 ![Tushare](https://img.shields.io/badge/tushare-1.2.64-red)  
 
 This project is an open-source project for Python quantitative investment data synchronization tasks. By utilizing Airflow and Docker technologies, it can conveniently synchronize daily stock, fund, index, financial data, and indicator data. The data source used is Tushare.
-
+  
 ## Features
 
 - **Supports synchronization of various data types**, including stock, fund, index, financial data, and indicator data.
