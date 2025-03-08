@@ -23,5 +23,3 @@ This project is an open-source project for Python quantitative investment data s
 - Docker 20.10.8
 - Tushare 1.2.64
 ```
-
-你可以将上述内容复制到Markdown支持的编辑器中查看效果。
