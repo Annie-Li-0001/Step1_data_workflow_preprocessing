@@ -1,6 +1,6 @@
 
 # Python Private Quantitative Investment Data Synchronization Task
-
+## Author: Annie
 ![Python](https://img.shields.io/badge/python-3.8-blue)  
 ![Airflow](https://img.shields.io/badge/airflow-2.0.2-orange)  
 ![Docker](https://img.shields.io/badge/docker-20.10.8-green)  
